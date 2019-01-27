@@ -1,0 +1,14 @@
+1.git仓库的建立
+  在建立的目录中，运行git init；
+
+2.提交命令
+   git add -A
+
+3.查看状态
+    git status
+
+4.提交
+    git commit -m "提交信息"
+
+ 5.查看提交日志
+    git log
